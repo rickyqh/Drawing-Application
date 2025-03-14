@@ -1,0 +1,27 @@
+[
+    {
+        "shape":"square",
+        "color":"red",
+        "size":100,
+        "position":[0,0]
+    },
+    {
+        "shape":"triangle",
+        "color":"blue",
+        "size":80,
+        "position":[-120,-50]
+    },
+    {
+        "shape":"rectangle",
+        "color":"green",
+        "size":[150,50],
+        "position":[120,50]
+    },
+    {
+        "shape":"circle",
+        "color":"orange",
+        "size":100,
+        "position":[200,120]
+    }
+
+]
